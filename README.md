@@ -31,7 +31,7 @@ https://vis.tacc.utexas.edu/
 
 Logging in
 
-![](https://github.com/jamescarson3/TACCRStudio/vis_login.png)
+![](https://github.com/jamescarson3/TACCRStudio/blob/master/vis_login.png)
 
 * Wait for authentification
 * Will automatically switch to displaying Jobs tab
