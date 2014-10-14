@@ -29,9 +29,9 @@ R is a programming environment for statistical and data analysis computations. R
 
 https://vis.tacc.utexas.edu/
 
-Login
+## Login
 
-![](https://github.com/github/training-kit/blob/master/images/professortocat.png)
+![](https://github.com/jamescarson3/TACCRStudio/blob/master/vis_login.png)
 
 
 
