@@ -84,14 +84,18 @@ Congratulations!
 
 ### Open your data
 
+In the interactive console type (using your own work directory):
+
 ```
-workdir="/work/02570/jcarson/maverick"
+workdir="/work/01234/jcarson/maverick"
 setwd(workdir)
 ```
 
-Can also use file browser on bottom right window to set working directory
+You could also instead use the File Management window on bottom right to set the working directory.  Once it is set, read in the file.
 
 ```x = read.delim(“filename.txt”)```
+
+How can you tell it has been read in?
 
 ---
 
