@@ -41,5 +41,8 @@ Logging in
 
 ![](https://github.com/jamescarson3/TACCRStudio/blob/master/vis_rstudio_startjob.png)
 
+Wait patiently.  Move startup window up with mouse to make sure it did not fail.
+
+![](https://github.com/jamescarson3/TACCRStudio/blob/master/vis_rstudio_running.png)
 
 
