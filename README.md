@@ -21,7 +21,7 @@ R is a programming environment for statistical and data analysis computations. R
 * Plotting and graphics
 * Data handling and storage
 * Scripting (loops, subroutines, etc)
-* 
+
 
 ---
 
@@ -33,16 +33,26 @@ Logging in
 
 ![](https://github.com/jamescarson3/TACCRStudio/blob/master/vis_login.png)
 
+---
+
 * Wait for authentification
 * Will automatically switch to displaying Jobs tab
 * Select Maverick
 * Select a project that has an allocation on Maverick
 * Select RStudio
 
+---
+
 ![](https://github.com/jamescarson3/TACCRStudio/blob/master/vis_rstudio_startjob.png)
+
+---
 
 Wait patiently.  Move startup window up with mouse to make sure it did not fail.
 
+---
+
 ![](https://github.com/jamescarson3/TACCRStudio/blob/master/vis_rstudio_running.png)
+
+---
 
 
