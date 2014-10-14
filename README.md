@@ -38,9 +38,8 @@ Logging in
 * Select Maverick
 * Select a project that has an allocation on Maverick
 * Select RStudio
-* Select Desktop Resolution
 
-
+![](https://github.com/jamescarson3/TACCRStudio/blob/master/vis_rstudio_startjob.png)
 
 
 
