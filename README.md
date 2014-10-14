@@ -63,7 +63,7 @@ Congratulations!
 
 ### Challenge
 
-* Use basic linux knowledge to find your working directory path.  Copy it.
+* Use VNC. ssh. or git-bash and your basic linux knowledge to find your working directory path on maverick.  Copy it.
 * Make and save a tab delimited text data file with some random numbers as ```data.txt```
 
 ---
