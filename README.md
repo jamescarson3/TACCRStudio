@@ -29,9 +29,18 @@ R is a programming environment for statistical and data analysis computations. R
 
 https://vis.tacc.utexas.edu/
 
-## Login
+Logging in
 
-![](https://github.com/jamescarson3/TACCRStudio/blob/master/vis_login.png)
+![](https://github.com/jamescarson3/TACCRStudio/vis_login.png)
+
+* Wait for authentification
+* Will automatically switch to displaying Jobs tab
+* Select Maverick
+* Select a project that has an allocation on Maverick
+* Select RStudio
+* Select Desktop Resolution
+
+
 
 
 
