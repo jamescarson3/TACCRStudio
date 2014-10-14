@@ -71,3 +71,80 @@ Now open RStudio in your browser by clicking the button
 * Package Loader
 * Interactive Help
 
+---
+
+Commands to try
+
+
+
+
+---
+
+Session - save workspace
+
+Quit RStudio
+
+Reopen
+
+Session - load workspace
+
+----
+
+  history(Inf)
+–  To review the command lines entered during the
+sessions
+•  savehistory(“history.txt”)
+–  Save the history of command lines to a text file
+•  loadhistory(“history.txt”) –  read it back into R
+•  save(list=ls(),file=“all.Rdata”)
+–  The session as a whole can be saved as a binary file.
+•  load(“c:\\temp\\ all.Rdata”) – Read back saved sessions.
+
+---
+
+demo()
+
+
+---
+
+Importing and exporting data
+There are many ways to get data into R and out of R.
+Most programs (e.g. Excel), as well as humans, know how to deal with rectangular tables in the form of tab- delimited text files.
+> x = read.delim(“filename.txt”) also: read.table, read.csv
+> write.table(x, file=“x.txt”, sep=“\t”)
+
+
+
+setwd("/work/02570/jcarson/maverick")
+
+
+
+Source - http://evomics.org/learning/programming/introduction-to-r/
+Tools
+Import Dataset
+From Web URL
+http://evomicsorg.wpengine.netdna-cdn.com/wp-content/uploads/2013/01/healthy_metadata.txt
+http://evomicsorg.wpengine.netdna-cdn.com/wp-content/uploads/2013/01/sick_metadata.txt
+
+summary(healthy_metadata)
+summary(sick_metadata)
+boxplot(healthy_metadata$Age, sick_metadata$Age)
+
+Plots - Export
+  Set your directory
+
+
+Files window 
+...
+Files - More - Set as working directory
+
+/work/02570/jcarson/maverick
+
+---
+
+### Challenges
+
+---
+
+
+
