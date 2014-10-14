@@ -55,4 +55,19 @@ Wait patiently.  Move startup window up with mouse to make sure it did not fail.
 
 ---
 
+Now open RStudio in your browser by clicking the button
+
+---
+
+### RStudio Graphical User Interface (GUI)
+
+* Source Editor / Interactive Highlight & Run
+* Data Viewer
+* Interactive Console
+* Workspace / Variable Viewer
+* Session History
+* File Management
+* Plot Viewer
+* Package Loader
+* Interactive Help
 
